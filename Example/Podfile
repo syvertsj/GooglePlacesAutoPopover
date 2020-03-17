@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GooglePlacesAutoPopover_Tests' do
+  pod 'GooglePlacesAutoPopover', :path => '../'
+  
+  
+end
