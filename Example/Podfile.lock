@@ -1,0 +1,16 @@
+PODS:
+  - GooglePlacesAutoPopover (0.1.0)
+
+DEPENDENCIES:
+  - GooglePlacesAutoPopover (from `../`)
+
+EXTERNAL SOURCES:
+  GooglePlacesAutoPopover:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GooglePlacesAutoPopover: b917c5c654e2bbdd4cdac8e72923f778ced18ff1
+
+PODFILE CHECKSUM: 0474b5d79bef91ec12f05c289868b557302e8764
+
+COCOAPODS: 1.9.1

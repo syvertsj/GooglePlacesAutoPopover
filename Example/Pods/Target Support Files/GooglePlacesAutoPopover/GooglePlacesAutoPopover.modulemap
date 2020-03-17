@@ -1,0 +1,6 @@
+framework module GooglePlacesAutoPopover {
+  umbrella header "GooglePlacesAutoPopover-umbrella.h"
+
+  export *
+  module * { export * }
+}
