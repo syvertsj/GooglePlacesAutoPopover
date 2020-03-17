@@ -22,7 +22,7 @@ pod 'GooglePlacesAutoPopover'
 
 ## Author
 
-syvertsj, syvertsj@gmail.com
+syvertsj - James A. Syvertsen
 
 ## License
 
