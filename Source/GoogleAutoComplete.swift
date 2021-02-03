@@ -105,7 +105,7 @@ final class GoogleAutoComplete {
     /// Get Place at specified index in predictions list, as a Place struct.
     ///
     /// - parameter completion: Completion handler containing Place struct.
-    /// - parameter failure: Failure handler containing KWIError.
+    /// - parameter failure: Failure handler containing error.
     ///
     func getPlace(atIndex index: Int, completion: @escaping ClosureWithPlace, failure: @escaping ClosureWithError) {
         
